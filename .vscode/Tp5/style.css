@@ -1,0 +1,32 @@
+select{
+    height:20px ;
+}
+label{
+    color: #cc31b2;
+    height: 20px;
+    display: block;
+    margin-top: 10px;
+    
+    
+}
+input{
+    height: 20px;
+    text-align: left;
+
+}
+body{
+    background: #948E99;  
+    background: -webkit-linear-gradient(to right, #2E1437, #948E99);
+    background: linear-gradient(to right, #2E1437, #948E99); 
+}   
+
+
+h1{
+        text-shadow: #ffffff;
+        font-style: italic;
+        text-align: center; color: #ffffff ;text-decoration: underline;
+        background-color: #99a890;
+        width: 30%;
+        margin: auto;
+        margin-top:5% ;
+}
